@@ -1,1 +1,1 @@
-This Repository is my projects for my CSCI 338 class. 
+This Repository is my projects for my CSCI 305 programming languages class. 
